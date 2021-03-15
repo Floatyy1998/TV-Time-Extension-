@@ -1,0 +1,19 @@
+{
+"name": "TV-Time-Dark",
+"version": "1.1",
+"manifest_version": 2,
+
+"content_scripts": [
+    {
+        "matches": ["https://*.tvtime.com/*"],
+        "js": ["content.js"],
+        "css" : ["yourcss.css"]
+    }
+],
+
+"browser_action": {
+    "default_popup":"popup.html",
+    "default_title":"TV-TIME-DARK"
+
+    }
+}

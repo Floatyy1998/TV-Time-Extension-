@@ -1,0 +1,405 @@
+* {
+    background-color: #212121 !important;
+    color: yellow;
+}
+
+body {
+    background-color: #212121 !important;
+}
+
+#container {
+    background-color: #212121 !important;
+}
+
+.progress-bar {
+    color: rgb(0, 255, 0) !important;
+    background-color: rgb(0, 255, 0) !important;
+}
+
+.zoom-icon {
+    background: none !important;
+}
+
+footer.footer {
+    display: none !important;
+}
+
+section>a>span {
+    font-size: 120% !important;
+}
+
+.scrollable {
+    background-color: #101010 !important;
+}
+
+.sms-to-download {
+    background-color: #101010 !important;
+}
+
+.universal-app-cta__app-store-links {
+    background-color: #101010 !important;
+}
+
+.universal-app-cta__link>span {
+    background-color: #101010 !important;
+}
+
+.all-left-navs {
+    background-color: #101010 !important;
+}
+
+.wrapper {
+    background-color: #101010 !important;
+}
+
+section . {
+    background-color: #101010 !important;
+}
+
+.navbar-form {
+    background-color: #101010 !important;
+}
+
+img {
+    background-color: #101010 !important;
+}
+
+.badge-item img {
+    background-color: #212121 !important;
+}
+
+.badge-title {
+    color: yellow !important;
+}
+
+.relative-date {
+    color: yellow !important;
+}
+
+.posters-list>li .poster-details h2 span {
+    color: yellow !important;
+}
+
+.secondary-link {
+    color: yellow !important;
+}
+
+.fanarts-list>li .fanart-details p {
+    color: yellow !important;
+}
+
+.page-column section h1 {
+    color: yellow !important;
+}
+
+.posters-list>li .poster-details .secondary-link {
+    color: orange !important;
+}
+
+.upcoming-time-left li div {
+    color: yellow !important;
+    text-shadow: 1px 1px 1px black, 1px -1px 1px black, -1px 1px 1px black, -1px -1px 1px black !important;
+}
+
+.menu>li.active span {
+    color: yellow !important;
+}
+
+#menu {
+    background-color: #101010 !important;
+}
+
+h2 {
+    color: yellow !important;
+}
+
+h2 a {
+    color: yellow !important;
+}
+
+#user-nav {
+    background-color: #101010 !important;
+}
+
+#get-the-app {
+    background-color: #101010 !important;
+    display: none;
+}
+
+.upcoming {
+    background-color: #101010 !important;
+}
+
+.upcoming>a>i {
+    background-color: #101010 !important;
+}
+
+.upcoming>a {
+    background-color: #101010 !important;
+}
+
+.icon-btn {
+    background-color: #101010 !important;
+}
+
+.upcoming>a>span {
+    background-color: #101010 !important;
+    color: grey !important;
+}
+
+#basic-settings div.row {
+    background-color: #212121 !important;
+    border: 1px solid white !important;
+}
+
+#basic-settings {
+    border: 1px solid white !important;
+    border-bottom: none !important;
+}
+
+.overlay a {
+    background-color: transparent !important;
+}
+
+
+}
+.overlay a i {
+    background-color: transparent !important;
+}
+.image-crop a {
+    background-color: transparent !important;
+}
+div.new-label {
+    background-color: yellow !important;
+    color: red !important;
+}
+.title .big {
+    border: none !important;
+}
+#settings div.tab-content {
+    border: none !important;
+}
+.delete-account {
+    display: none !important;
+}
+.form-search {
+    background-color: #101010 !important;
+}
+.overlay {
+    background-color: transparent !important;
+}
+.alt-user-nav {
+    background-color: #101010 !important;
+}
+.icon-tvst-friends {
+    background-color: #101010 !important;
+}
+.icon-tvst-notifications {
+    background-color: #101010 !important;
+}
+.profile {
+    background-color: #101010 !important;
+}
+.profile>a>i {
+    background-color: #101010 !important;
+}
+.profile>a {
+    background-color: #101010 !important;
+}
+.profile>a>span {
+    background-color: #101010 !important;
+    color: grey !important;
+}
+.universal-app-cta {
+    background-color: #101010 !important;
+    display: none;
+}
+.universal-app-cta__title {
+    background-color: #101010 !important;
+}
+.explore {
+    background-color: #101010 !important;
+}
+.explore>a>i {
+    background-color: #101010 !important;
+}
+.explore>a {
+    background-color: #101010 !important;
+}
+.explore>a>span {
+    background-color: #101010 !important;
+    color: grey !important;
+}
+.home {
+    background-color: #101010 !important;
+}
+.profile-nav {
+    background-color: #101010 !important;
+}
+div #profile {
+    background-color: #101010 !important;
+}
+#profile .profile-nav .nav-tabs>li.active a {
+    background-color: #212121 !important;
+}
+#profile .profile-nav .nav-tabs>li.active a div.label {
+    background-color: #212121 !important;
+}
+#profile .profile-nav .nav-tabs>li a {
+    background-color: #111111 !important;
+}
+#profile .profile-nav .nav-tabs>li a div.label {
+    color: yellow !important;
+    background-color: #111111 !important;
+}
+#profile .profile-nav {
+    background-color: #101010 !important;
+    border-bottom: none;
+}
+.row {
+    background-color: #101010 !important;
+}
+.main-block-container {
+    background-color: #101010 !important;
+}
+.home>a>i {
+    background-color: #101010 !important;
+}
+.home>a {
+    background-color: #101010 !important;
+}
+.home>a>span {
+    background-color: #101010 !important;
+    color: grey !important;
+}
+.calendar {
+    background-color: #101010 !important;
+}
+.calendar>a>i {
+    background-color: #101010 !important;
+}
+.calendar>a {
+    background-color: #101010 !important;
+}
+.calendar>a>span {
+    background-color: #101010 !important;
+    color: grey !important;
+}
+.badge {
+    background-color: #101010 !important;
+}
+.help {
+    background-color: #101010 !important;
+}
+.help>a>i {
+    background-color: #101010 !important;
+}
+.help>a {
+    background-color: #101010 !important;
+}
+.help>a>span {
+    background-color: #101010 !important;
+}
+.account {
+    background-color: #101010 !important;
+}
+.account>a>i {
+    background-color: #101010 !important;
+}
+.account>a {
+    background-color: #101010 !important;
+}
+.account>a>span {
+    background-color: #101010 !important;
+}
+#user-nav>h1 {
+    background-color: #101010 !important;
+}
+div.fanart-container {
+    background-color: #212121 !important;
+}
+.page.right {
+    background-color: #212121 !important;
+}
+.episode-details {
+    background-color: #212121 !important;
+}
+#calendar-filters {
+    height: 100% !important;
+    background-color: #212121 !important;
+}
+.right-container {
+    height: 100% !important;
+    background-color: #212121 !important;
+}
+.upcoming-time-left {
+    background: transparent !important;
+}
+.upcoming-time-left>li {
+    background: transparent !important;
+}
+.time-label {
+    background: transparent !important;
+    color: #ffffff !important;
+}
+.page-left a {
+    background-color: #101010 !important;
+}
+a.signout-link {
+    background-color: #212121 !important;
+}
+.nav-tabs>li {
+    background-color: #101010 !important;
+}
+.nav-tabs {
+    background-color: #101010 !important;
+}
+.dropdown {
+    background-color: #212121 !important;
+}
+.filters {
+    background-color: #212121 !important;
+}
+small {
+    background-color: #212121 !important;
+}
+.follow-btn {
+    background-color: #212121 !important;
+}
+.nav>a {
+    background-color: #212121 !important;
+}
+.sort {
+    background-color: #212121 !important;
+}
+.time-number {
+    background: transparent !important;
+    color: #ffffff !important;
+}
+.fanart-details {
+    background-color: #212121 !important;
+}
+.main-block-container {
+    width: 100% !important;
+}
+.main-block {
+    width: 100% !important;
+}
+.info-zone {
+    width: 100% !important;
+}
+.episode-infos {
+    background-color: #212121 !important;
+}
+.extended {
+    background-color: #212121 !important;
+}
+.initialized {
+    background-color: #212121 !important;
+}
+.image-crop {
+    background-color: #212121 !important;
+}
+#home-link {
+    background-color: #101010 !important;
+}
